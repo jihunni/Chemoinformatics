@@ -1,5 +1,6 @@
 # chemoinformatics Reference
 - RDKit - 강의 1 + Mol Mol2 포맷 | [youtube](https://www.youtube.com/watch?v=sxj56IQqhqM&list=PL30UV7ug7LwJYQgSp4THPjlb-9XAV4DCe&ab_channel=Prof.J.Lee)
+- RDKit 강의 - Molecular Descriptors, Druglikeness, ADMET, logP | [youtube](https://www.youtube.com/watch?v=SZzfljEo4ec&list=PL30UV7ug7LwJYQgSp4THPjlb-9XAV4DCe&index=5&ab_channel=Prof.J.Lee)
 - https://www.rdkit.org/docs/GettingStartedInPython.html
 - https://www.rdkit.org/docs/Cookbook.html
 
