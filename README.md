@@ -4,6 +4,12 @@
 - https://www.rdkit.org/docs/GettingStartedInPython.html
 - https://www.rdkit.org/docs/Cookbook.html
 
+# paper
+- Large-scale comparison of machine learning methods for drug target prediction on ChEMBL
+- MoleculeNet: A Benchmark for Molecular Machine Learning
+
+# library
+- ASE (Atomic Simulation Environment)
 
 # chemical file format
 Ref : https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/ChemInformatics_(2017)%3A_Chem_4399_5399/2.2%3A_Chemical_Representations_on_Computer%3A_Part_II/2.2.2%3A_Anatomy_of_a_MOL_file  
@@ -175,3 +181,4 @@ $$$$
     - Although 3D position of a simple molecule can calculated with VSEPR, it is not accurate for complex atom. Atomic position in 3D requires the sophisticate calculation with quantum chemistry.
 - ChEMBL database  
   - chmicals with biological reacticity
+- Quantum chemistry structures and properties of 134 kilo molecules
