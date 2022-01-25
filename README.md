@@ -182,3 +182,12 @@ $$$$
 - ChEMBL database  
   - chmicals with biological reacticity
 - Quantum chemistry structures and properties of 134 kilo molecules
+- KEGG DRUG Database | [link](https://www.genome.jp/kegg/drug/)
+  - Download DB
+    Ref : https://www.biostars.org/p/48319/
+    - Get an ftp client
+    - Go to `ftp://ftp.genome.jp/pub/kegg/medicus/`
+    - Go into the drug directory
+    - Download the file called drug, that is the database in DBGET format. You can write your own scripts to turn it into a database. 
+- LigandBox | [link](http://www.mypresto5.com/ligandbox/cgi-bin/index.cgi?LANG=en)
+- 
