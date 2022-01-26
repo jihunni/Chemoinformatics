@@ -190,4 +190,4 @@ $$$$
     - Go into the drug directory
     - Download the file called drug, that is the database in DBGET format. You can write your own scripts to turn it into a database. 
 - LigandBox | [link](http://www.mypresto5.com/ligandbox/cgi-bin/index.cgi?LANG=en)
-- 
+- ExCAPE database
