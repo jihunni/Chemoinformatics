@@ -191,3 +191,5 @@ $$$$
     - Download the file called drug, that is the database in DBGET format. You can write your own scripts to turn it into a database. 
 - LigandBox | [link](http://www.mypresto5.com/ligandbox/cgi-bin/index.cgi?LANG=en)
 - ExCAPE database
+- FDA Adverse Report System (FAERs): drug-side effect 
+- Side Effect Resource (SIDER) : drug-side effect 
