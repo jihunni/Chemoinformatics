@@ -193,3 +193,4 @@ $$$$
 - ExCAPE database
 - FDA Adverse Report System (FAERs): drug-side effect 
 - Side Effect Resource (SIDER) : drug-side effect 
+- ClassyFire : structure-based chemical taxonomy
