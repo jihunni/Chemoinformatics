@@ -6,6 +6,8 @@
 5. different ligand poses are generated.
 
 # Steps in Autodock Vina
+Ref : https://www.youtube.com/watch?v=Sux91FJ3Xe8
+Ref : https://www.youtube.com/watch?v=vU2aNuP3Y8I
 ## Preparation
 1. Download and install MGL Tools (http://mgltools.scripps.edu/downloads)
 2. Run the setup , it will take few minutes.
