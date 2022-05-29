@@ -194,3 +194,13 @@ $$$$
 - FDA Adverse Report System (FAERs): drug-side effect 
 - Side Effect Resource (SIDER) : drug-side effect 
 - ClassyFire : structure-based chemical taxonomy
+
+# Drug discovery
+## Methods for Drug Combination Analysis
+Ref: https://www.youtube.com/watch?v=VwYPuQZIMLY&ab_channel=PrecisionHealth
+- dose-effect-based analysis
+  - combination subthresholding
+  - highest single agent
+  - response activity
+  - Bliss independence model
+- effect-based drug combination
