@@ -6,8 +6,8 @@
 5. different ligand poses are generated.
 
 # Steps in Autodock Vina
-Ref : https://www.youtube.com/watch?v=Sux91FJ3Xe8
-Ref : https://www.youtube.com/watch?v=vU2aNuP3Y8I
+Ref : https://www.youtube.com/watch?v=Sux91FJ3Xe8  
+Ref : https://www.youtube.com/watch?v=vU2aNuP3Y8I  
 ## Preparation
 1. Download and install MGL Tools (http://mgltools.scripps.edu/downloads)
 2. Run the setup , it will take few minutes.
@@ -43,3 +43,8 @@ cd C:\Users\user\Desktop\docking
 "\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --receptor 4mzi.pdbqt --ligand ligand.pdbqt --config config.txt --log log.txt --out output.pdbqt 
 ```
 17. It will generate the log.txt file which will tell the docking score
+
+# QnA
+- grid box setting : 
+	- https://github.com/ccsb-scripps/AutoDock-Vina/issues/24
+	- http://www.bch.cuhk.edu.hk/kbwong/teaching/autodock/autodock.html 
