@@ -1,4 +1,9 @@
-# paper
+# Concept
+- allosteric 
+  - kinetics : Tense and Relax state
+  - mechanics : cooperativity on response (the change in overall spectrum of motion, the change of global dynamics)
+
+# Paper
 # elastic network model (ENM)
   - video : https://youtu.be/9HZ_9sWDmpY
   - Direct evaluation of thermal fluctuations in proteins using a single-parameter harmonic potential
