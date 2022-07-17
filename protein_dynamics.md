@@ -15,7 +15,18 @@
   - Precise druggability of the PTH type 1 receptor
 
 # hybrid method
-# ESSA 
+# essential site scanning analysis (ESSA)
+  - essential site:
+    - allosteric site
+    - orthosteric site
+    - hinge site
+  - `clusterENMD` : relaxed structure
+    - relaxed structure
+    - ANM conformer generation
+    - clustering of conformers (PCA)
+    - MD simulation for relaxation (OpenMD)
+    - output (atomistic conformation)
+    - ProDy ensemble analysis
 
 # Drug discovery protocol
 ## protocol for ProDy and druaggability-based identification of compounds and cross-validation
