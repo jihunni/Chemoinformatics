@@ -8,5 +8,26 @@
   - ProDy
   - DynOmics
   - Towards gaining sight of multiscale events: utilizing network models and normal modes in hybrid methods
-  # Molecular dynamics (MD)
-  - 
+# Molecular dynamics (MD)
+## Druggability simulation
+  - Inhibition of Peroxidase Activity of Cytochrome c: De Novo Compound Discovery and Validation
+  - Druggability Assessment of Allosteric Proteins by Dynamics Simulations in the Presence of Probe Molecules
+  - Precise druggability of the PTH type 1 receptor
+
+# hybrid method
+# ESSA 
+
+# Drug discovery protocol
+## protocol for ProDy and druaggability-based identification of compounds and cross-validation
+  - target protein
+  - DynOmics-ProDy : generation of an ensemble of conformers
+  - druggability simulation
+    - pocket identification
+    - select hot sopts
+    - dominant interaction
+  - `Pharmmaker` : pharmacophore modeling
+  - Glide : docking and scoring, cross validation
+  - select compunds for each pocket
+## application
+- Allosteric interactions in the parathyroid hormone GPCR–arrestin complex formation
+- Precise druggability of the PTH type 1 receptor
