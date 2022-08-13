@@ -25,3 +25,7 @@ Example:
 
 # PDB format
 Ref : https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/introduction
+
+# visualization software
+- Avogadro
+- VMD
