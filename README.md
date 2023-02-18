@@ -8,9 +8,17 @@
 - Large-scale comparison of machine learning methods for drug target prediction on ChEMBL
 - MoleculeNet: A Benchmark for Molecular Machine Learning
 ## Molecular dynamics
-- Exploring Transition Pathway and Free-Energy Profile of Large-Scale Protein Conformational Change
+### Force Field
+- Improved side-chain torsion potentials for the Amber ff99SB protein force field
+- Development of polyphosphate parameters for use with the AMBER force field
+### Exploring Transition Pathway and Free-Energy Profile of Large-Scale Protein Conformational Change
   - Exploring Transition Pathway and Free-Energy Profile of Large-Scale Protein Conformational Change by Combining Normal Mode Analysis and Umbrella Sampling Molecular Dynamics
   - Molecular Dynamics Study of Conformational Changes of Tankyrase 2 Binding Subsites upon Ligand Binding
+## Protein engineering
+## De novo protein deisgn
+
+  
+    
 # library
 - ASE (Atomic Simulation Environment)
 
