@@ -7,7 +7,10 @@
 # paper
 - Large-scale comparison of machine learning methods for drug target prediction on ChEMBL
 - MoleculeNet: A Benchmark for Molecular Machine Learning
-
+## Molecular dynamics
+- Exploring Transition Pathway and Free-Energy Profile of Large-Scale Protein Conformational Change
+  - Exploring Transition Pathway and Free-Energy Profile of Large-Scale Protein Conformational Change by Combining Normal Mode Analysis and Umbrella Sampling Molecular Dynamics
+  - Molecular Dynamics Study of Conformational Changes of Tankyrase 2 Binding Subsites upon Ligand Binding
 # library
 - ASE (Atomic Simulation Environment)
 
