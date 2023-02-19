@@ -14,6 +14,10 @@
 ### Exploring Transition Pathway and Free-Energy Profile of Large-Scale Protein Conformational Change
   - Exploring Transition Pathway and Free-Energy Profile of Large-Scale Protein Conformational Change by Combining Normal Mode Analysis and Umbrella Sampling Molecular Dynamics
   - Molecular Dynamics Study of Conformational Changes of Tankyrase 2 Binding Subsites upon Ligand Binding
+## Deep learning
+  - Quantum-chemical insights from deep tensor neural networks
+  - SchNet
+  - Boltzman generators
 ## Protein engineering
 ## De novo protein deisgn
 
@@ -47,6 +51,10 @@
 
 # Web service
 - The GlycoBioChem PRODRG2 Server: PRODRG will take a description of a small molecule (as PDB coordinates / MDL Molfile / SYBYL Mol2 file / text drawing) and from it generate a variety of topologies for use with GROMACS, WHAT IF, Autodock, HEX, CNS, REFMAC5, SHELX, O and other programs, as well as energy-minimized coordinates in a variety of formats.
+
+# visualization
+- Myavi : https://docs.enthought.com/mayavi/mayavi/
+
 
 # Drug discovery
 ## Methods for Drug Combination Analysis
