@@ -20,8 +20,13 @@
   - Boltzman generators
 ## Protein engineering
 ## De novo protein deisgn
+- Protein–Protein Docking with Simultaneous Optimization of Rigid-body Displacement and Side-chain Conformations
+- Protocols for Molecular Modeling with Rosetta3 and RosettaScripts
 
-  
+### Antibody
+- Modeling Immunity with Rosetta: Methods for Antibody and Antigen Design
+- A New Clustering of Antibody CDR Loop Conformations
+- Improving Loop Modeling of the Antibody Complementarity-Determining Region 3 Using Knowledge-Based Restraints
     
 # library
 - ASE (Atomic Simulation Environment)
@@ -48,7 +53,7 @@
 - Side Effect Resource (SIDER) : drug-side effect 
 - ClassyFire : structure-based chemical taxonomy
 - 970 Million Druglike Small Molecules for Virtual Screening in the Chemical Universe Database GDB-13 (REf: https://pubs.acs.org/doi/10.1021/ja902302h)
-
+- PyIgClassify : a monthly-updated web server primarily providing the clusters and associated information of the antibody complementarity determining regions (CDRs) in the Protein Data Bank (PDB). The current database contains 3,065 PDB antibody entries.
 # Web service
 - The GlycoBioChem PRODRG2 Server: PRODRG will take a description of a small molecule (as PDB coordinates / MDL Molfile / SYBYL Mol2 file / text drawing) and from it generate a variety of topologies for use with GROMACS, WHAT IF, Autodock, HEX, CNS, REFMAC5, SHELX, O and other programs, as well as energy-minimized coordinates in a variety of formats.
 
