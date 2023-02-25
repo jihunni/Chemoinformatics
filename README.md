@@ -20,8 +20,6 @@
   - Boltzman generators
 ## Protein engineering
 ## De novo protein deisgn
-- Yeast surface display:
-  - Isolating and engineering human antibodies using yeast surface display
 - Protein-protein interaction  
   - Protein–Protein Docking with Simultaneous Optimization of Rigid-body Displacement and Side-chain Conformations
   - Protocols for Molecular Modeling with Rosetta3 and RosettaScripts
@@ -62,6 +60,16 @@
 
 # visualization
 - Myavi : https://docs.enthought.com/mayavi/mayavi/
+
+# Experiment
+- Protein purification
+  - Yeast surface display:
+    - Isolating and engineering human antibodies using yeast surface display
+  - nickel-affinity chromatography
+  - size-exclusion chromatography
+- Protein-protein interaction
+  - surface plasmon resonance (SPR)
+  - enzyme-linked immunosorbent assay
 
 
 # Drug discovery
