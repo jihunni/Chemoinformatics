@@ -42,6 +42,8 @@
   - Multi-state design : REstrained CONvergence (RECONV) algorithm, BROAD (BReadth Optimization for Antibody Design) algorithm
 - Epitope-focused immunogen design: side chain grafting, backbone grafting, FunFolDes (Functional Folding and Design)
   - `paper (2011)` Computational Design of Proteins Targeting the Conserved Stem Region of Influenza Hemagglutinin   
+    - This approach does not make any assumptions about the nature of the hotspot or the scaffold protein. It generate a hotspo region consisting of high-affinity interacting residues of all types and incorporate them into a variety of scaffold proteins. These generalizations allow to design binders of potentially any protein surface.
+    - low sucess rate
 - Vaccine design through thermostabilization : Protein Repair One Stop Shopt (PROSS)
 - Designing and refining glycans: RosettaCarbohydrate framework
 - Antigen carrier design
