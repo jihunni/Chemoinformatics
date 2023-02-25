@@ -67,6 +67,7 @@
     - Isolating and engineering human antibodies using yeast surface display
   - nickel-affinity chromatography
   - size-exclusion chromatography
+  - to excise a C-terminal stretch (in order to boost surface expression of the design with no significant loss of its functionality)
 - Protein-protein interaction
   - surface plasmon resonance (SPR)
   - enzyme-linked immunosorbent assay
