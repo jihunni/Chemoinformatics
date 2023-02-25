@@ -34,8 +34,18 @@
   - `paper` A New Clustering of Antibody CDR Loop Conformations
   - `database` PyIgClassify : a monthly-updated web server primarily providing the clusters and associated information of the antibody complementarity determining regions (CDRs) in the Protein Data Bank (PDB). The current database contains 3,065 PDB antibody entries.
   - `paper` Improving Loop Modeling of the Antibody Complementarity-Determining Region 3 Using Knowledge-Based Restraints
- - Epitope-focused immunogen design
+  
+- Antibody structure prediction : RosettaAntibody, AbPredict, RosetaCM
+- Antibody-Antigen Docking: RosettaDock, SnugDock
+- Antibody Design
+  - Single-state design (affinity maturation): RosettaAntibodyDesign, AbDesign
+  - Multi-state design : REstrained CONvergence (RECONV) algorithm, BROAD (BReadth Optimization for Antibody Design) algorithm
+- Epitope-focused immunogen design: side chain grafting, backbone grafting, FunFolDes (Functional Folding and Design)
   - `paper (2011)` Computational Design of Proteins Targeting the Conserved Stem Region of Influenza Hemagglutinin   
+- Vaccine design through thermostabilization : Protein Repair One Stop Shopt (PROSS)
+- Designing and refining glycans: RosettaCarbohydrate framework
+- Antigen carrier design
+
 # library
 - ASE (Atomic Simulation Environment)
 
