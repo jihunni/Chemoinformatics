@@ -4,7 +4,7 @@
 - https://www.rdkit.org/docs/GettingStartedInPython.html
 - https://www.rdkit.org/docs/Cookbook.html
 
-# paper
+# Computational modling
 - Large-scale comparison of machine learning methods for drug target prediction on ChEMBL
 - MoleculeNet: A Benchmark for Molecular Machine Learning
 ## Molecular dynamics
@@ -21,14 +21,21 @@
 ## Protein engineering
 ## De novo protein deisgn
 - Protein-protein interaction  
-  - Protein–Protein Docking with Simultaneous Optimization of Rigid-body Displacement and Side-chain Conformations
-  - Protocols for Molecular Modeling with Rosetta3 and RosettaScripts
-
-### Antibody
-- Modeling Immunity with Rosetta: Methods for Antibody and Antigen Design
-- A New Clustering of Antibody CDR Loop Conformations
-- Improving Loop Modeling of the Antibody Complementarity-Determining Region 3 Using Knowledge-Based Restraints
-    
+  - Docking: 
+    - PatchDock
+      - `paper` Efficient Unbound Docking of Rigid Molecules
+    - RosettaDock  
+      - `paper` Protein–Protein Docking with Simultaneous Optimization of Rigid-body Displacement and Side-chain Conformations
+      - `paper` Protocols for Molecular Modeling with Rosetta3 and RosettaScripts
+  
+### Antibody design
+- `review` Modeling Immunity with Rosetta: Methods for Antibody and Antigen Design
+- Clustering
+  - `paper` A New Clustering of Antibody CDR Loop Conformations
+  - `database` PyIgClassify : a monthly-updated web server primarily providing the clusters and associated information of the antibody complementarity determining regions (CDRs) in the Protein Data Bank (PDB). The current database contains 3,065 PDB antibody entries.
+  - `paper` Improving Loop Modeling of the Antibody Complementarity-Determining Region 3 Using Knowledge-Based Restraints
+ - Epitope-focused immunogen design
+  - `paper (2011)` Computational Design of Proteins Targeting the Conserved Stem Region of Influenza Hemagglutinin   
 # library
 - ASE (Atomic Simulation Environment)
 
@@ -54,7 +61,7 @@
 - Side Effect Resource (SIDER) : drug-side effect 
 - ClassyFire : structure-based chemical taxonomy
 - 970 Million Druglike Small Molecules for Virtual Screening in the Chemical Universe Database GDB-13 (REf: https://pubs.acs.org/doi/10.1021/ja902302h)
-- PyIgClassify : a monthly-updated web server primarily providing the clusters and associated information of the antibody complementarity determining regions (CDRs) in the Protein Data Bank (PDB). The current database contains 3,065 PDB antibody entries.
+
 # Web service
 - The GlycoBioChem PRODRG2 Server: PRODRG will take a description of a small molecule (as PDB coordinates / MDL Molfile / SYBYL Mol2 file / text drawing) and from it generate a variety of topologies for use with GROMACS, WHAT IF, Autodock, HEX, CNS, REFMAC5, SHELX, O and other programs, as well as energy-minimized coordinates in a variety of formats.
 
@@ -64,14 +71,24 @@
 # Experiment
 - Protein purification
   - Yeast surface display:
-    - Isolating and engineering human antibodies using yeast surface display
+    - `protocol` Isolating and engineering human antibodies using yeast surface display
   - nickel-affinity chromatography
+    - `paper` : Metal chelate affinity chromatography, a new approach to protein fractionation
   - size-exclusion chromatography
   - to excise a C-terminal stretch (in order to boost surface expression of the design with no significant loss of its functionality)
 - Protein-protein interaction
   - surface plasmon resonance (SPR)
-  - enzyme-linked immunosorbent assay
-
+  - enzyme-linked immunosorbent assay (ELLISA)
+  - Biolayer Interferometry (BLI)
+- Affinity maturation
+  - site-specific mutagenesis
+    - `paper` Rapid and efficient site-specific mutagenesis without phenotypic selection.
+- functionality
+  - Alanine substitution at core positions
+- Structure determination 
+  - NMR
+  - X-ray crystallography
+  - Cryo-electromicroscopy 
 
 # Drug discovery
 ## Methods for Drug Combination Analysis
