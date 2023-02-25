@@ -20,8 +20,11 @@
   - Boltzman generators
 ## Protein engineering
 ## De novo protein deisgn
-- Protein–Protein Docking with Simultaneous Optimization of Rigid-body Displacement and Side-chain Conformations
-- Protocols for Molecular Modeling with Rosetta3 and RosettaScripts
+- Yeast surface display:
+  - Isolating and engineering human antibodies using yeast surface display
+- Protein-protein interaction  
+  - Protein–Protein Docking with Simultaneous Optimization of Rigid-body Displacement and Side-chain Conformations
+  - Protocols for Molecular Modeling with Rosetta3 and RosettaScripts
 
 ### Antibody
 - Modeling Immunity with Rosetta: Methods for Antibody and Antigen Design
