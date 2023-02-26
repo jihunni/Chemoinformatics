@@ -20,7 +20,7 @@
   - Boltzman generators
 ## Protein engineering
 ## De novo protein deisgn
-- side chain positioning problem : Packer
+- side chain positioning problem : Packer  
   Ref: https://www.rosettacommons.org/node/9563  
   To solve the sidechain positioning problem, Rosetta uses "the Packer". This is a non-deterministic Metropolis Monte Carlo simulated annealing protocol, which attempts to find the lowest energy conformation of sidechains on a fixed backbone, assuming the sidechains come from a fixed set of rotamers.   
   The reason it's called the "packer" is that it was originally developed to find the optimal packing of sidechains in the hydrophobic core of proteins. It turns out that the packer is generally useful for combinitorial optimization of sidechain positioning, and can be used for design as well as packing. (Instead of choosing between rotamers of a single amino acid, you just add in rotamers of other amino acids too - the algorithm is residue-based, so the different number/kinds of atoms in different amino acids doesn't matter.) So sometimes you'll hear talk of "packing" even when the identity of the amino acid is allowed to change.  
