@@ -31,7 +31,7 @@
     - RosettaDock  
       - `paper` Protein–Protein Docking with Simultaneous Optimization of Rigid-body Displacement and Side-chain Conformations
       - `paper` Protocols for Molecular Modeling with Rosetta3 and RosettaScripts
-      - `tool` DockingPie: https://github.com/paiardin/DockingPie
+      - `tool` DockingPie: [paper](https://academic.oup.com/bioinformatics/article/38/17/4233/6632656) [github](https://github.com/paiardin/DockingPie)
   
 ### Antibody design
 - `review` Modeling Immunity with Rosetta: Methods for Antibody and Antigen Design
