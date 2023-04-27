@@ -7,6 +7,10 @@
 # Computational modling
 - Large-scale comparison of machine learning methods for drug target prediction on ChEMBL
 - MoleculeNet: A Benchmark for Molecular Machine Learning
+## protein structure alignment
+- DALI
+- TM-align : [paper](https://academic.oup.com/nar/article/33/7/2302/2401364)
+
 ## Molecular dynamics
 ### Force Field
 - Improved side-chain torsion potentials for the Amber ff99SB protein force field
