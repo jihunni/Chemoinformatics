@@ -86,6 +86,7 @@
 - ClassyFire : structure-based chemical taxonomy
 - 970 Million Druglike Small Molecules for Virtual Screening in the Chemical Universe Database GDB-13 (REf: https://pubs.acs.org/doi/10.1021/ja902302h)
 - Orientations of Proteins in Membranes (OPM) database : [homepage](https://opm.phar.umich.edu/)
+- CC+ database | [homepage](http://coiledcoils.chm.bris.ac.uk/ccplus/search/)
 # Web service
 - The GlycoBioChem PRODRG2 Server: PRODRG will take a description of a small molecule (as PDB coordinates / MDL Molfile / SYBYL Mol2 file / text drawing) and from it generate a variety of topologies for use with GROMACS, WHAT IF, Autodock, HEX, CNS, REFMAC5, SHELX, O and other programs, as well as energy-minimized coordinates in a variety of formats.
 
