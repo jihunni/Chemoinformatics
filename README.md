@@ -25,8 +25,12 @@
   - Quantum-chemical insights from deep tensor neural networks
   - SchNet
   - Boltzman generators
-## Protein engineering
-## De novo protein deisgn
+
+## Ab initio protein folding
+- Fast and accurate Ab Initio Protein structure prediction using deep learning potentials | 2022
+
+
+## De novo protein deisgn for receptor-ligand pipeline
 - side chain positioning problem : Packer  
   Ref: https://www.rosettacommons.org/node/9563  
   To solve the sidechain positioning problem, Rosetta uses "the Packer". This is a non-deterministic Metropolis Monte Carlo simulated annealing protocol, which attempts to find the lowest energy conformation of sidechains on a fixed backbone, assuming the sidechains come from a fixed set of rotamers.   
